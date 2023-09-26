@@ -1,0 +1,17 @@
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\bin\Debug\net7.0\Persistence.runtimeconfig.json
+D:\PhilipLorenz\FullStack\Reactivities\Persistence\obj\Debug\net7.0\Persistence.genruntimeconfig.cache
