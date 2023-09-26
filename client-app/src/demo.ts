@@ -24,7 +24,7 @@ const duck2: Duck = {
 
 }
 
-
+as
 
 
 
